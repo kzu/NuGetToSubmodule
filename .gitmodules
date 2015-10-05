@@ -1,0 +1,8 @@
+[submodule "external/LittleSdk"]
+	path = external/LittleSdk
+	url = git@github.com:kzu/LittleSdk.git
+	branch = master
+[submodule "external/LittleSdk.Messaging"]
+	path = external/LittleSdk.Messaging
+	url = git@github.com:kzu/LittleSdk.Messaging.git
+	branch = master
